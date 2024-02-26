@@ -67,6 +67,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ![logo](https://github.com/Rabbia785/Build-a-Responsive-Portfoilo-website/assets/159041023/4c2e0bb8-72b0-4595-b21e-241ac07ca55b)
 
+![pizza](https://github.com/Rabbia785/Build-a-Responsive-Portfoilo-website/assets/159041023/a2b69245-889e-433b-bad8-36e2d6f267c0)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
