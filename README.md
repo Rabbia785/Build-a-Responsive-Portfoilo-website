@@ -77,6 +77,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ![pizza3](https://github.com/Rabbia785/Build-a-Responsive-Portfoilo-website/assets/159041023/068d183b-b3ad-43a6-b37b-76a6c9610a7b)
 
 
+![pizza4](https://github.com/Rabbia785/Build-a-Responsive-Portfoilo-website/assets/159041023/2984643b-1c91-4837-aa6e-041102942162)
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
